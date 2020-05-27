@@ -1,2 +1,1 @@
-# Asherons-Call-Metas
-My custom/modified Meta files for Asheron's call
+This is a repositry for all of my old/new Asheron's Call vtank files.
